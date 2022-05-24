@@ -1,0 +1,8 @@
+#text{
+    width: 300px;
+    height: 300px;
+    border: 3px darkblue solid;
+}
+.mb-1 {
+    margin-bottom: 1rem;
+}
